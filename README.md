@@ -7,7 +7,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## Contents
 
 * Basic Information
-	* [Official Website](#official-website)
+	* [Official Website](#official-websites)
 	* [Getting Help](#getting-help)
 	* [People](#people)
 	* [Events](#events)
