@@ -486,6 +486,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Clean & Haunted](https://kapendev.itch.io/clean-haunted) - Clean a spooky haunted house.
 * [Runani](https://kapendev.itch.io/runani) - An endless runner game where you help cute animals.
 * [A Short Metamorphosis](https://kapendev.itch.io/a-short-metamorphosis) - A cute visual novel about looking at an egg.
+* [Would you still save the world with me if I were a worm?](https://0xeab.itch.io/would-you-still-save-the-world-with-me-if-i-were-a-worm) - Help your wormy partner find the exit of each of the 20 puzzles to eventually save the world that has fallen into a wormhole.
 
 ## Internationalization
 
